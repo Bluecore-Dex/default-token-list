@@ -16,7 +16,7 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
   },
   {
-    "name": "Uniswap",
+    "name": "bluedex",
     "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
     "symbol": "UNI",
     "decimals": 18,
