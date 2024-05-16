@@ -1,15 +1,6 @@
 [
     {
         "chainId": 8453,
-        "address": "0x142592f9e9a9cdea6c1167ffceae0fcfb3e7ea97",
-        "name": "BlueCore",
-        "symbol": "BCOR",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/Bluecore-Dex/assets/dev_bluecore_token/blockchains/base/assets/0x142592f9e9a9cdea6c1167ffceae0fcfb3e7ea97/logo.png"
-
-    },
-    {
-        "chainId": 8453,
         "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
         "name": "USD Base Coin",
         "symbol": "USDbC",
