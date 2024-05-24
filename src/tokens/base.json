@@ -19,7 +19,7 @@
             "name": "BlueCore",
             "symbol": "BCOR",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Bluecore-Dex/assets/dev_bluecore_token/blockchains/base/assets/0x142592f9e9a9cdea6c1167ffceae0fcfb3e7ea97/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/Bluecore-Dex/assets/dev_bluecore_token/blockchains/base/assets/0x142592F9E9A9cDeA6C1167FfcEaE0Fcfb3E7eA97/logo.png"
         },
         {
             "chainId": 8453,
