@@ -63,14 +63,6 @@
         },
         {
             "chainId": 8453,
-            "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 6,
-            "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
-        },
-        {
-            "chainId": 8453,
             "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
             "name": "Aerodrome Finance",
             "symbol": "AERO",
