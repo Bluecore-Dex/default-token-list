@@ -1,36 +1,36 @@
 {
-  "name": "@uniswap/default-token-list",
+  "name": "@bluedex/default-token-list",
   "version": "11.17.0",
-  "description": "The Uniswap default token list",
-  "main": "build/uniswap-default.tokenlist.json",
+  "description": "The Bluedex default token list",
+  "main": "build/bluedex-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/bluedex-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/uniswap-default.tokenlist.json"
+    "build/bluedex-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
+    "url": "git+https://github.com/Bluecore-Dex/default-token-list.git"
   },
   "keywords": [
-    "uniswap",
+    "bluedex",
     "default",
     "token",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": "Bluecore-Dex",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Uniswap/default-token-list/issues"
+    "url": "https://github.com/Bluecore-Dex/default-token-list/issues"
   },
-  "homepage": "https://github.com/Uniswap/default-token-list#readme",
+  "homepage": "https://github.com/Bluecore-Dex/default-token-list#readme",
   "devDependencies": {
+    "@bluedex/token-list-bridge-utils": "^2.3.0",
+    "@bluedex/token-lists": "^1.0.0-beta.31",
     "@ethersproject/address": "^5.0.2",
-    "@uniswap/token-list-bridge-utils": "^2.3.0",
-    "@uniswap/token-lists": "^1.0.0-beta.29",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
