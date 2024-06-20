@@ -29,22 +29,7 @@
             "decimals": 6,
             "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
         },
-        {
-            "chainId": 8453,
-            "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
-            "name": "Coinbase Wrapped Staked ETH",
-            "symbol": "cbETH",
-            "decimals": 18,
-            "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
-            "name": "Dai Stablecoin",
-            "symbol": "DAI",
-            "decimals": 18,
-            "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg"
-        },
+       
         {
             "chainId": 8453,
             "address": "0x4200000000000000000000000000000000000006",
@@ -52,22 +37,7 @@
             "symbol": "WETH",
             "decimals": 18,
             "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
-            "name": "Compound",
-            "symbol": "COMP",
-            "decimals": 18,
-            "logoURI": "https://ethereum-optimism.github.io/data/COMP/logo.svg"
-        },
-        {
-            "chainId": 8453,
-            "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
-            "name": "Aerodrome Finance",
-            "symbol": "AERO",
-            "decimals": 18,
-            "logoURI": "https://basescan.org/token/images/aerodrome_32.png"
         }
+        
     ]
 }
