@@ -20,7 +20,7 @@ const bridgeUtils = require('@uniswap/token-list-bridge-utils');
 module.exports = function buildList() {
   const parsed = version.split(".");
   const l1List = {
-    name: "Uniswap Labs Default",
+    name: "Bluedex Labs Default",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -29,7 +29,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-    keywords: ["uniswap", "default"],
+    keywords: ["Bluedex","default"],
     tokens: [
       ...mainnet,
       ...ropsten,

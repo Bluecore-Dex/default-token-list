@@ -29,6 +29,7 @@
             "decimals": 6,
             "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
         },
+       
         {
             "chainId": 8453,
             "address": "0x4200000000000000000000000000000000000006",
@@ -69,5 +70,6 @@
             "decimals": 18,
             "logoURI": "https://basescan.org/token/images/aerodrome_32.png"
         }
+        
     ]
 }
