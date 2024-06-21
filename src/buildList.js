@@ -44,7 +44,7 @@ module.exports = function buildList() {
       ...bnb,
       ...sepolia,
       ...avalanche,
-      ...base,
+      // ...base,
       ...base_sepolia,
     ]
       // sort them by symbol for easy readability
